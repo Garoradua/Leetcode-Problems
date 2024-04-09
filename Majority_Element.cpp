@@ -19,6 +19,7 @@ int main(){
 		}
 		if(count > half){
 			cout << arr[i];
+			break;
 		}
 	}
 }
