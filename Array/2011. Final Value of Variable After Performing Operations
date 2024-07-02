@@ -1,0 +1,16 @@
+class Solution {
+    public int finalValueAfterOperations(String[] operations) {
+        int n = operations.length;
+        int i=0;
+        int x = 0;
+        // System.out.println(operations[0]);
+        while(i<n){
+            if(operations[i].equals("--X") || operations[i].equals("X--")) {
+                x--;
+            }
+            else x++;
+            i++;
+        }
+        return x;
+    }
+}
