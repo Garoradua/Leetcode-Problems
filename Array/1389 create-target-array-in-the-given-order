@@ -1,0 +1,15 @@
+class Solution {
+    public int[] createTargetArray(int[] nums, int[] index) {
+        int n = nums.length;
+        int[] target = new int[n];
+
+        for(int i=0; i<n; i++){
+            int p = index[i];
+            for(int j = n-1; j>p; j--){
+                target[j] = target[j-1];
+            }
+            target[index[i]] = nums[i];
+        }
+        return target;
+    }
+}
