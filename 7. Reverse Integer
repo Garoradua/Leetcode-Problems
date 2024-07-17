@@ -1,0 +1,18 @@
+class Solution {
+    public int reverse(int x) {
+        int temp = x;
+        int digit;
+        long newNumber = 0;
+        while(temp!=0){
+            digit  = temp%10;
+            newNumber = newNumber*10 + digit;
+           temp = temp/10;
+        }
+         if(newNumber > Integer.MAX_VALUE || newNumber < Integer.MIN_VALUE){
+            return 0;
+        }
+        //  newNumber = x < 0 ? -newNumber : newNumber;
+         return (int)newNumber; 
+    }
+
+}
