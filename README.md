@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Garoradua/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Garoradua/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/Garoradua/Leetcode-Problems/tree/master/0414-third-maximum-number) |
 | [0494-target-sum](https://github.com/Garoradua/Leetcode-Problems/tree/master/0494-target-sum) |
@@ -34,9 +35,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Garoradua/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0494-target-sum](https://github.com/Garoradua/Leetcode-Problems/tree/master/0494-target-sum) |
 ## Backtracking
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Garoradua/Leetcode-Problems/tree/master/0494-target-sum) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Garoradua/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
