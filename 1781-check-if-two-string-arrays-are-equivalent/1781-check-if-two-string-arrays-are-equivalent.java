@@ -1,13 +1,7 @@
 class Solution {
     public boolean arrayStringsAreEqual(String[] word1, String[] word2) {
-        String first = " ";
-        String second = " ";
-        for(String a : word1){
-            first += a;
-        }
-        for(String b : word2){
-            second += b;
-        }
+        String first = String.join("",word1);
+        String second = String.join("",word2);
         return first.equals(second);
     }
 }
