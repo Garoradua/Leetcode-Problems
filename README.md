@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Garoradua/Leetcode-Problems/tree/master/0414-third-maximum-number) |
 | [0494-target-sum](https://github.com/Garoradua/Leetcode-Problems/tree/master/0494-target-sum) |
 | [1656-count-good-triplets](https://github.com/Garoradua/Leetcode-Problems/tree/master/1656-count-good-triplets) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Garoradua/Leetcode-Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Garoradua/Leetcode-Problems/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Garoradua/Leetcode-Problems/tree/master/3397-find-the-integer-added-to-array-i) |
 ## Two Pointers
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Garoradua/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## String
+|  |
+| ------- |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Garoradua/Leetcode-Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 <!---LeetCode Topics End-->
