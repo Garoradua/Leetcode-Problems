@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Garoradua/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/Garoradua/Leetcode-Problems/tree/master/0414-third-maximum-number) |
 | [0494-target-sum](https://github.com/Garoradua/Leetcode-Problems/tree/master/0494-target-sum) |
+| [1572-subrectangle-queries](https://github.com/Garoradua/Leetcode-Problems/tree/master/1572-subrectangle-queries) |
 | [1656-count-good-triplets](https://github.com/Garoradua/Leetcode-Problems/tree/master/1656-count-good-triplets) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Garoradua/Leetcode-Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Garoradua/Leetcode-Problems/tree/master/2844-sum-of-squares-of-special-elements) |
@@ -50,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Garoradua/Leetcode-Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+## Design
+|  |
+| ------- |
+| [1572-subrectangle-queries](https://github.com/Garoradua/Leetcode-Problems/tree/master/1572-subrectangle-queries) |
+## Matrix
+|  |
+| ------- |
+| [1572-subrectangle-queries](https://github.com/Garoradua/Leetcode-Problems/tree/master/1572-subrectangle-queries) |
 <!---LeetCode Topics End-->
