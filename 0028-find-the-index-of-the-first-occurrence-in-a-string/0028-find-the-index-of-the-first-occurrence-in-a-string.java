@@ -6,8 +6,7 @@ class Solution {
         for(int i=0; i<=hayLength-needLength; i++){
             if(haystack.charAt(i) == needle.charAt(0)){
             int j=0;
-            while(j < needLength){
-                if(needle.charAt(j)!=haystack.charAt(j+i)) break;
+            while(j < needLength && haystack.charAt(j+i)==needle.charAt(j)){
                 j++;
                 }
                 if(j==needLength) return i;
