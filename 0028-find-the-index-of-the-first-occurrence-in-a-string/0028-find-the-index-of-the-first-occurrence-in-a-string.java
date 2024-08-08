@@ -10,8 +10,9 @@ class Solution {
                 if(needle.charAt(j)!=haystack.charAt(j+i)) break;
                 j++;
                 }
-             if(j==needLength) return i;
+                if(j==needLength) return i;
             }
+            
         }
         return -1;
     }
