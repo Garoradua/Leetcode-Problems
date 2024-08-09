@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2844-sum-of-squares-of-special-elements](https://github.com/Garoradua/Leetcode-Problems/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Garoradua/Leetcode-Problems/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Garoradua/Leetcode-Problems/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3516-design-neighbor-sum-service](https://github.com/Garoradua/Leetcode-Problems/tree/master/3516-design-neighbor-sum-service) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/Garoradua/Leetcode-Problems/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Two Pointers
 |  |
@@ -68,10 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1572-subrectangle-queries](https://github.com/Garoradua/Leetcode-Problems/tree/master/1572-subrectangle-queries) |
+| [3516-design-neighbor-sum-service](https://github.com/Garoradua/Leetcode-Problems/tree/master/3516-design-neighbor-sum-service) |
 ## Matrix
 |  |
 | ------- |
 | [1572-subrectangle-queries](https://github.com/Garoradua/Leetcode-Problems/tree/master/1572-subrectangle-queries) |
+| [3516-design-neighbor-sum-service](https://github.com/Garoradua/Leetcode-Problems/tree/master/3516-design-neighbor-sum-service) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/Garoradua/Leetcode-Problems/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## String Matching
 |  |
@@ -82,8 +85,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Garoradua/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Garoradua/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3516-design-neighbor-sum-service](https://github.com/Garoradua/Leetcode-Problems/tree/master/3516-design-neighbor-sum-service) |
 ## Math
 |  |
 | ------- |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Garoradua/Leetcode-Problems/tree/master/3515-find-if-digit-game-can-be-won) |
+## Simulation
+|  |
+| ------- |
+| [3516-design-neighbor-sum-service](https://github.com/Garoradua/Leetcode-Problems/tree/master/3516-design-neighbor-sum-service) |
 <!---LeetCode Topics End-->
