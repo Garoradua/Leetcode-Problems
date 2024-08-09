@@ -17,6 +17,7 @@ class NeighborSum {
                     if(j+1 < column) sum += arr[i][j+1];
                     if(i-1 >=0) sum += arr[i-1][j];
                     if(i+1 < row) sum += arr[i+1][j];
+                    break;
                 }
             }
         }
@@ -32,6 +33,7 @@ class NeighborSum {
                     if(j+1 < column && i-1 >=0) sum += arr[i-1][j+1];
                     if(i+1 <row && j+1 < column) sum += arr[i+1][j+1];
                     if(i+1 < row && j-1>=0) sum += arr[i+1][j-1];
+                    break;
                 }
             }
         }
