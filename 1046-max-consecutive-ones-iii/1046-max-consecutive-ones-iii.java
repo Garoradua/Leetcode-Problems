@@ -1,25 +1,16 @@
 class Solution {
     public int longestOnes(int[] nums, int k) {
-        int i=0; 
-        int j=0;
+        int right=0; 
+        int left=0;
         int maxConsecutive = 0;
-        int count = 0;
-        
-        while(i<nums.length){
-            j = i;
-            int flips = k;
-            while(j<nums.length){
-                if(nums[j]==1) count++;
-                else if(flips!=0){
-                    count++;
-                    flips--;
-                }else break;
-                j++;
+        int window = 0;
+        for(right=0; right < nums.length; right++){
+            window += nums[right];
+            while(window + k < right-left+1){
+               window  = window - nums[left];
+               left++; 
             }
-            maxConsecutive = Math.max(maxConsecutive, count);
-            count = 0;
-            if(j==nums.length) break;
-            i++;
+            maxConsecutive  =Math.max(maxConsecutive, right-left + 1);
         }
         return maxConsecutive;
     }
