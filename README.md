@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Garoradua/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Garoradua/Leetcode-Problems/tree/master/0494-target-sum) |
 | [0682-baseball-game](https://github.com/Garoradua/Leetcode-Problems/tree/master/0682-baseball-game) |
+| [0932-monotonic-array](https://github.com/Garoradua/Leetcode-Problems/tree/master/0932-monotonic-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Garoradua/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Garoradua/Leetcode-Problems/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1572-subrectangle-queries](https://github.com/Garoradua/Leetcode-Problems/tree/master/1572-subrectangle-queries) |
