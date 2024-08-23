@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Garoradua/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0384-shuffle-an-array](https://github.com/Garoradua/Leetcode-Problems/tree/master/0384-shuffle-an-array) |
 | [0414-third-maximum-number](https://github.com/Garoradua/Leetcode-Problems/tree/master/0414-third-maximum-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Garoradua/Leetcode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Garoradua/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Garoradua/Leetcode-Problems/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Garoradua/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Garoradua/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Garoradua/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Garoradua/Leetcode-Problems/tree/master/0414-third-maximum-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Garoradua/Leetcode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Garoradua/Leetcode-Problems/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Garoradua/Leetcode-Problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3226-minimum-number-game](https://github.com/Garoradua/Leetcode-Problems/tree/master/3226-minimum-number-game) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0384-shuffle-an-array](https://github.com/Garoradua/Leetcode-Problems/tree/master/0384-shuffle-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Garoradua/Leetcode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Garoradua/Leetcode-Problems/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Simulation
 |  |
