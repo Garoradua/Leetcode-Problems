@@ -1,7 +1,6 @@
 class Solution {
     public int minMoves(int[] nums) {
         int sum = 0;
-        Arrays.sort(nums);
         int n = nums.length;
         int min = Integer.MAX_VALUE;
         for(int i=0; i<n; i++){
