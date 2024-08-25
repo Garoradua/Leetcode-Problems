@@ -3,7 +3,8 @@ class Solution {
         int i=0; int j=0;
         int count = 0;
         int maxLength = 0;
-        while(j<nums.length){
+        int n = nums.length;
+        while(j<n){
             if(nums[j]==0) count++;
             if(count>1){
                 if(nums[i]==0)count--;
