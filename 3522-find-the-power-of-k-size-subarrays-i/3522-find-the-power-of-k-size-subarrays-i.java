@@ -12,7 +12,8 @@ class Solution {
         int pos=0;
         for(int i=0; i<=n-k; i++){
             int number = check(i, i+k-1, nums);
-            result[pos++] = number;
+            result[pos] = number;
+            pos = pos+1;
         }
         return result;
     }
