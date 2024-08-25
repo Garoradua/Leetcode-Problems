@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Garoradua/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Garoradua/Leetcode-Problems/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1572-subrectangle-queries](https://github.com/Garoradua/Leetcode-Problems/tree/master/1572-subrectangle-queries) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Garoradua/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1656-count-good-triplets](https://github.com/Garoradua/Leetcode-Problems/tree/master/1656-count-good-triplets) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Garoradua/Leetcode-Problems/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Garoradua/Leetcode-Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Garoradua/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0494-target-sum](https://github.com/Garoradua/Leetcode-Problems/tree/master/0494-target-sum) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Garoradua/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Backtracking
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/Garoradua/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Garoradua/Leetcode-Problems/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Garoradua/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Garoradua/Leetcode-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3463-alternating-groups-i](https://github.com/Garoradua/Leetcode-Problems/tree/master/3463-alternating-groups-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Garoradua/Leetcode-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
