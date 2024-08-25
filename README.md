@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Garoradua/Leetcode-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Garoradua/Leetcode-Problems/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3516-design-neighbor-sum-service](https://github.com/Garoradua/Leetcode-Problems/tree/master/3516-design-neighbor-sum-service) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Garoradua/Leetcode-Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/Garoradua/Leetcode-Problems/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Two Pointers
 |  |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Garoradua/Leetcode-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3463-alternating-groups-i](https://github.com/Garoradua/Leetcode-Problems/tree/master/3463-alternating-groups-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Garoradua/Leetcode-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Garoradua/Leetcode-Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Counting
 |  |
 | ------- |
