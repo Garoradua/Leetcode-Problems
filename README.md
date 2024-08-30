@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Garoradua/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1078-remove-outermost-parentheses](https://github.com/Garoradua/Leetcode-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Garoradua/Leetcode-Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Garoradua/Leetcode-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3379-score-of-a-string](https://github.com/Garoradua/Leetcode-Problems/tree/master/3379-score-of-a-string) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Garoradua/Leetcode-Problems/tree/master/0682-baseball-game) |
+| [1078-remove-outermost-parentheses](https://github.com/Garoradua/Leetcode-Problems/tree/master/1078-remove-outermost-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
