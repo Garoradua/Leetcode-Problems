@@ -17,12 +17,13 @@ class Solution {
             list.add(curr.val);
             curr = curr.next;
         }
-        ArrayList<Integer> list2 = new ArrayList<Integer>(list);
-        Collections.reverse(list);
-        System.out.println(list);
-        System.out.println(list2);
-        for(int i=0; i<list.size(); i++){
-            if(list.get(i)!=list2.get(i)) return false;
+        int left = 0;
+        int right = list.size()-1;
+
+        while(right >= left){
+            if(list.get(left) != list.get(right)) return false;
+            left++;
+            right--;
         }
         return true;
     }
