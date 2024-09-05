@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Garoradua/Leetcode-Problems/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Garoradua/Leetcode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Garoradua/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0162-find-peak-element](https://github.com/Garoradua/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/Garoradua/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/Garoradua/Leetcode-Problems/tree/master/0289-game-of-life) |
 | [0349-intersection-of-two-arrays](https://github.com/Garoradua/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Garoradua/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/Garoradua/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/Garoradua/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Garoradua/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Garoradua/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
