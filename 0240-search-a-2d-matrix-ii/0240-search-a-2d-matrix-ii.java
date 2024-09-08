@@ -1,29 +1,14 @@
 class Solution {
-    public static boolean findInRow(int i, int column, int[][] matrix, int target){
-        for(int k = column-1; k>=0; k--){
-            if(matrix[i][k] == target ) return true;
-            else if(matrix[i][k] < target){
-                return findInColumn(i, k, target, matrix);
-            }
-        }
-        return false;
-    }
-    public static boolean findInColumn(int row, int k, int target, int[][] matrix){
-        for(int i = row; i<matrix.length; i++){
-            if(matrix[i][k] == target) return true;
-            else if(matrix[i][k] > target){
-                return findInRow(i, k, matrix, target);
-            }
-        }
-        return false;
-    }
     public boolean searchMatrix(int[][] matrix, int target) {
-        int row = matrix.length;
-        int column = matrix[0].length;
+        int row = 0;
+        int column = matrix[0].length-1;
 
-        for(int i=0; i<row; i++){
-            if(matrix[i][column-1] >= target){
-                return findInRow(i, column, matrix, target);
+        while(row <= matrix.length-1 && column >=0){
+            if(matrix[row][column]==target) return true;
+            else if(matrix[row][column] > target){
+                column--;
+            }else{
+                row++;
             }
         }
         return false;
