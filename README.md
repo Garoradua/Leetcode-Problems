@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Garoradua/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Garoradua/Leetcode-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0386-lexicographical-numbers](https://github.com/Garoradua/Leetcode-Problems/tree/master/0386-lexicographical-numbers) |
 | [0463-island-perimeter](https://github.com/Garoradua/Leetcode-Problems/tree/master/0463-island-perimeter) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Garoradua/Leetcode-Problems/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Breadth-First Search
@@ -331,4 +332,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Garoradua/Leetcode-Problems/tree/master/0784-insert-into-a-binary-search-tree) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Garoradua/Leetcode-Problems/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
