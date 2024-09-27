@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Garoradua/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0386-lexicographical-numbers](https://github.com/Garoradua/Leetcode-Problems/tree/master/0386-lexicographical-numbers) |
 | [0463-island-perimeter](https://github.com/Garoradua/Leetcode-Problems/tree/master/0463-island-perimeter) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Garoradua/Leetcode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Garoradua/Leetcode-Problems/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Breadth-First Search
 |  |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Garoradua/Leetcode-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Garoradua/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0463-island-perimeter](https://github.com/Garoradua/Leetcode-Problems/tree/master/0463-island-perimeter) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Garoradua/Leetcode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Garoradua/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Garoradua/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Garoradua/Leetcode-Problems/tree/master/0450-delete-node-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Garoradua/Leetcode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Garoradua/Leetcode-Problems/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Garoradua/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Garoradua/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Garoradua/Leetcode-Problems/tree/master/0450-delete-node-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Garoradua/Leetcode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Garoradua/Leetcode-Problems/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Brainteaser
 |  |
@@ -379,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Garoradua/Leetcode-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Garoradua/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Garoradua/Leetcode-Problems/tree/master/0450-delete-node-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Garoradua/Leetcode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Garoradua/Leetcode-Problems/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Trie
 |  |
