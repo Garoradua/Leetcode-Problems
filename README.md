@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Garoradua/Leetcode-Problems/tree/master/0146-lru-cache) |
+| [0173-binary-search-tree-iterator](https://github.com/Garoradua/Leetcode-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [1572-subrectangle-queries](https://github.com/Garoradua/Leetcode-Problems/tree/master/1572-subrectangle-queries) |
 | [3516-design-neighbor-sum-service](https://github.com/Garoradua/Leetcode-Problems/tree/master/3516-design-neighbor-sum-service) |
 ## Matrix
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Garoradua/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Garoradua/Leetcode-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0173-binary-search-tree-iterator](https://github.com/Garoradua/Leetcode-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/Garoradua/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Garoradua/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [1078-remove-outermost-parentheses](https://github.com/Garoradua/Leetcode-Problems/tree/master/1078-remove-outermost-parentheses) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Garoradua/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Garoradua/Leetcode-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Garoradua/Leetcode-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0173-binary-search-tree-iterator](https://github.com/Garoradua/Leetcode-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Garoradua/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0450-delete-node-in-a-bst](https://github.com/Garoradua/Leetcode-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Garoradua/Leetcode-Problems/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Garoradua/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Garoradua/Leetcode-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Garoradua/Leetcode-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0173-binary-search-tree-iterator](https://github.com/Garoradua/Leetcode-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Garoradua/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0450-delete-node-in-a-bst](https://github.com/Garoradua/Leetcode-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Garoradua/Leetcode-Problems/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -369,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/Garoradua/Leetcode-Problems/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Garoradua/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Garoradua/Leetcode-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Garoradua/Leetcode-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0450-delete-node-in-a-bst](https://github.com/Garoradua/Leetcode-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Garoradua/Leetcode-Problems/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Trie
@@ -376,4 +381,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Garoradua/Leetcode-Problems/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Garoradua/Leetcode-Problems/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Garoradua/Leetcode-Problems/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
