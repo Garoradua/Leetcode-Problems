@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/Garoradua/Leetcode-Problems/tree/master/2047-find-a-peak-element-ii) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Garoradua/Leetcode-Problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Garoradua/Leetcode-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Garoradua/Leetcode-Problems/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Garoradua/Leetcode-Problems/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3226-minimum-number-game](https://github.com/Garoradua/Leetcode-Problems/tree/master/3226-minimum-number-game) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Garoradua/Leetcode-Problems/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Garoradua/Leetcode-Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Garoradua/Leetcode-Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2047-find-a-peak-element-ii](https://github.com/Garoradua/Leetcode-Problems/tree/master/2047-find-a-peak-element-ii) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Garoradua/Leetcode-Problems/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Garoradua/Leetcode-Problems/tree/master/0463-island-perimeter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Garoradua/Leetcode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Garoradua/Leetcode-Problems/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Garoradua/Leetcode-Problems/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Garoradua/Leetcode-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Garoradua/Leetcode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Garoradua/Leetcode-Problems/tree/master/0784-insert-into-a-binary-search-tree) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Garoradua/Leetcode-Problems/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -373,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Garoradua/Leetcode-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Garoradua/Leetcode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Garoradua/Leetcode-Problems/tree/master/0784-insert-into-a-binary-search-tree) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Garoradua/Leetcode-Problems/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Brainteaser
 |  |
 | ------- |
@@ -389,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Garoradua/Leetcode-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Garoradua/Leetcode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Garoradua/Leetcode-Problems/tree/master/0784-insert-into-a-binary-search-tree) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Garoradua/Leetcode-Problems/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Trie
 |  |
 | ------- |
