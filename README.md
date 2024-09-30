@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Garoradua/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Garoradua/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Garoradua/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0556-next-greater-element-iii](https://github.com/Garoradua/Leetcode-Problems/tree/master/0556-next-greater-element-iii) |
 | [0908-middle-of-the-linked-list](https://github.com/Garoradua/Leetcode-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/Garoradua/Leetcode-Problems/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Binary Search
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Garoradua/Leetcode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0344-reverse-string](https://github.com/Garoradua/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0539-minimum-time-difference](https://github.com/Garoradua/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
+| [0556-next-greater-element-iii](https://github.com/Garoradua/Leetcode-Problems/tree/master/0556-next-greater-element-iii) |
 | [0812-rotate-string](https://github.com/Garoradua/Leetcode-Problems/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Garoradua/Leetcode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1078-remove-outermost-parentheses](https://github.com/Garoradua/Leetcode-Problems/tree/master/1078-remove-outermost-parentheses) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Garoradua/Leetcode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Garoradua/Leetcode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0539-minimum-time-difference](https://github.com/Garoradua/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
+| [0556-next-greater-element-iii](https://github.com/Garoradua/Leetcode-Problems/tree/master/0556-next-greater-element-iii) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Garoradua/Leetcode-Problems/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Simulation
 |  |
