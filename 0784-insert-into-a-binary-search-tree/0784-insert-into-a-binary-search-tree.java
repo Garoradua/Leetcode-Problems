@@ -18,17 +18,15 @@ class Solution {
         TreeNode temp = new TreeNode(val);
         if(root==null) return temp;
         TreeNode curr = root;
-        TreeNode previous = null;
-            while(curr!=null){
-                previous = curr;
-                if(curr.val > val){
-                    curr = curr.left;
-                }else{
-                    curr = curr.right;
-                }
-            }
-            if(val > previous.val) previous.right = temp;
-            else previous.left = temp;
-            return root;
+        TreeNode prev = null;
+
+        while(curr!=null){
+            prev = curr;
+            if(curr.val > val) curr = curr.left;
+            else curr = curr.right;
+        }
+        if(prev.val > val) prev.left = temp;
+        else prev.right = temp;
+        return root;
     }
 }
