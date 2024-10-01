@@ -15,29 +15,27 @@
  */
 class Solution {
     public TreeNode deleteNode(TreeNode root, int key) {
-        if(root==null) return root;
-        return delete(root, key);
+        if(root==null) return null;
+        return deleteTree(root, key);
     }
-
-    public TreeNode delete(TreeNode root, int key){
+    public TreeNode deleteTree(TreeNode root, int key){
         if(root==null) return root;
-        if(root.val > key) root.left = deleteNode(root.left, key);
-        else if(root.val < key) root.right = deleteNode(root.right, key);
+        if(root.val > key) root.left = deleteTree(root.left, key);
+        else if(root.val < key) root.right = deleteTree(root.right, key);
         else{
-            if(root.left == null) return root.right;
+            if(root.left==null) return root.right;
             else if(root.right==null) return root.left;
             else{
-                TreeNode newnode = getNewNode(root.right);
-                root.val = newnode.val;
-                root.right = deleteNode(root.right, newnode.val);
+                TreeNode getNode = getnewNode(root.right);
+                root.val = getNode.val;
+                root.right = deleteTree(root.right, getNode.val);
             }
         }
-
         return root;
     }
-    public static TreeNode getNewNode(TreeNode root){
-        if(root==null) return root;
-        while(root.left!=null) root = root.left;
-        return root;
+    public TreeNode getnewNode(TreeNode root){
+        TreeNode curr = root;
+        while(curr.left!=null) curr = curr.left;
+        return curr;
     }
 }
