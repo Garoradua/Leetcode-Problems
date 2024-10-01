@@ -15,19 +15,19 @@
  */
 class Solution {
     public int kthSmallest(TreeNode root, int k) {
+        int kth[] = {k};
         int[] val = {-1};
-        int kHolder[] = {k};
-        return inOrderTraversal(root, kHolder, val);
+        return inOrder(root, kth, val);
     }
 
-    public int inOrderTraversal(TreeNode root, int[] k, int[] val){
+    public int inOrder(TreeNode root, int[] kth, int[] val){
         if(root==null) return -1;
-        if(inOrderTraversal(root.left, k, val) !=-1 ) return val[0];
-       k[0]--;
-        if(k[0]==0) {
+        if(inOrder(root.left, kth, val) != -1) return val[0];
+        kth[0]--;
+        if(kth[0]==0) {
             val[0] = root.val;
             return val[0];
         }
-        return inOrderTraversal(root.right, k, val);
+        return inOrder(root.right, kth, val);
     }
 }
