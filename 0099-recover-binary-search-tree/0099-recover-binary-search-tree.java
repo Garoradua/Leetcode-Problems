@@ -16,24 +16,23 @@
 class Solution {
     public void recoverTree(TreeNode root) {
         ArrayList<TreeNode> list = new ArrayList<>();
-        inOrderTraversal(root, list);
-        TreeNode prev = null;
+        inOrder(root, list);
+        TreeNode first = null;
         TreeNode second = null;
-
         for(int i=1; i<list.size(); i++){
-            if(list.get(i-1).val > list.get(i).val){
-                if(prev==null) prev = list.get(i-1);
+            if(list.get(i).val < list.get(i-1).val) {
+                if(first==null) first= list.get(i-1);
                 second = list.get(i);
             }
         }
-        int data = prev.val;
-        prev.val = second.val;
-        second.val = data;
+        int temp = first.val;
+        first.val = second.val;
+        second.val = temp;
     }
-    public void inOrderTraversal(TreeNode root, ArrayList<TreeNode> list){
+    public void inOrder(TreeNode root, ArrayList<TreeNode> list){
         if(root==null) return;
-        inOrderTraversal(root.left, list);
-        list.add(root);
-        inOrderTraversal(root.right, list);
+         inOrder(root.left, list);
+         list.add(root);
+          inOrder(root.right, list);
     }
 }
