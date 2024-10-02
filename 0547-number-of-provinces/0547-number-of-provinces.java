@@ -3,26 +3,17 @@ class Solution {
         boolean[] flag = new boolean[isConnected.length];
         int count = 0;
         for(int i=0; i<isConnected.length; i++){
-            if(flag[i]==false){
+            if(!flag[i]){
                 count++;
-                bfsTraversal(isConnected, flag, i);
+                 DFSTraversal(i,isConnected,flag);
             }
         }
         return count;
-        
     }
-    public void bfsTraversal(int[][] isConnected, boolean[] flag, int i){
-        Queue<Integer> q = new LinkedList<>();
-        q.add(i);
-        flag[i]=true;
-        while(!q.isEmpty()){
-           int data = q.poll();
-           for(int j=0; j<isConnected[i].length; j++){
-            if(isConnected[data][j]==1 && flag[j]==false) {
-                q.add(j);
-                flag[j]=true;
-            }
-           }
+    public void DFSTraversal(int i, int[][] isConnected, boolean[] flag){
+        flag[i] = true;
+        for(int j=0; j<isConnected[i].length; j++){
+            if(!flag[j] && isConnected[i][j]==1) DFSTraversal(j,isConnected, flag);
         }
     }
 }
