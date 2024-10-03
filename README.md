@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Garoradua/Leetcode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/Garoradua/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Garoradua/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0684-redundant-connection](https://github.com/Garoradua/Leetcode-Problems/tree/master/0684-redundant-connection) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Garoradua/Leetcode-Problems/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Garoradua/Leetcode-Problems/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Breadth-First Search
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Garoradua/Leetcode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/Garoradua/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Garoradua/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0684-redundant-connection](https://github.com/Garoradua/Leetcode-Problems/tree/master/0684-redundant-connection) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -447,8 +449,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Garoradua/Leetcode-Problems/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Garoradua/Leetcode-Problems/tree/master/0684-redundant-connection) |
 ## Graph
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Garoradua/Leetcode-Problems/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Garoradua/Leetcode-Problems/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
