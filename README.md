@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Garoradua/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/Garoradua/Leetcode-Problems/tree/master/0179-largest-number) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Garoradua/Leetcode-Problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [3055-maximum-odd-binary-number](https://github.com/Garoradua/Leetcode-Problems/tree/master/3055-maximum-odd-binary-number) |
 ## String
 |  |
 | ------- |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/Garoradua/Leetcode-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Garoradua/Leetcode-Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Garoradua/Leetcode-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [3055-maximum-odd-binary-number](https://github.com/Garoradua/Leetcode-Problems/tree/master/3055-maximum-odd-binary-number) |
 | [3379-score-of-a-string](https://github.com/Garoradua/Leetcode-Problems/tree/master/3379-score-of-a-string) |
 ## Design
 |  |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Garoradua/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
 | [0556-next-greater-element-iii](https://github.com/Garoradua/Leetcode-Problems/tree/master/0556-next-greater-element-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Garoradua/Leetcode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
+| [3055-maximum-odd-binary-number](https://github.com/Garoradua/Leetcode-Problems/tree/master/3055-maximum-odd-binary-number) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Garoradua/Leetcode-Problems/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Simulation
 |  |
