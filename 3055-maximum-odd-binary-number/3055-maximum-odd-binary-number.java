@@ -1,22 +1,22 @@
 class Solution {
     public String maximumOddBinaryNumber(String s) {
-        char[] charArray = s.toCharArray();
-        int totalLength = charArray.length;
-        int j;
-        if(charArray[totalLength-1]=='0') j = totalLength-1;
-        else j=0;
-            for(int i=0; i<totalLength-1; i++){
-                if(charArray[i]=='1'){
-                    swap(j,i,charArray);
-                    if(j == totalLength-1) j=0;
-                    else j++;
-                }
+        char[] arr = s.toCharArray();
+        int length  =arr.length;
+        int left = 0;
+        int right = length-1;
+
+        while(left<=right){
+            if(arr[left]=='1') left++;
+            else if(arr[right]=='0') right--;
+            else {
+                arr[left] = '1';
+                arr[right] = '0';
+                left++;
+                right--;
             }
-        return new String(charArray);
-    }
-    public void swap(int i, int j, char[] charArray){
-        char x = charArray[i];
-        charArray[i] = charArray[j];
-        charArray[j] = x;
+        }
+        arr[right] = '0';
+        arr[length-1] = '1';
+        return new String(arr);
     }
 }
