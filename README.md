@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Garoradua/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Garoradua/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/Garoradua/Leetcode-Problems/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/Garoradua/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Garoradua/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Garoradua/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Garoradua/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Garoradua/Leetcode-Problems/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Garoradua/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/Garoradua/Leetcode-Problems/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/Garoradua/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Garoradua/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Garoradua/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Garoradua/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Garoradua/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Garoradua/Leetcode-Problems/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/Garoradua/Leetcode-Problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0217-contains-duplicate](https://github.com/Garoradua/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Garoradua/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Garoradua/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Garoradua/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
