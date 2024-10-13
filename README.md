@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Garoradua/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/Garoradua/Leetcode-Problems/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Garoradua/Leetcode-Problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Garoradua/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Garoradua/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Garoradua/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Garoradua/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Garoradua/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Garoradua/Leetcode-Problems/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Garoradua/Leetcode-Problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/Garoradua/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Garoradua/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Garoradua/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Garoradua/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Garoradua/Leetcode-Problems/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/Garoradua/Leetcode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Garoradua/Leetcode-Problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Garoradua/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Garoradua/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Garoradua/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Garoradua/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
