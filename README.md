@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Garoradua/Leetcode-Problems/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/Garoradua/Leetcode-Problems/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Garoradua/Leetcode-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/Garoradua/Leetcode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [1572-subrectangle-queries](https://github.com/Garoradua/Leetcode-Problems/tree/master/1572-subrectangle-queries) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Garoradua/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Garoradua/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Garoradua/Leetcode-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0155-min-stack](https://github.com/Garoradua/Leetcode-Problems/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Garoradua/Leetcode-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/Garoradua/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Garoradua/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
