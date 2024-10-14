@@ -11,7 +11,6 @@ class MinStack {
         if(minStack.isEmpty() || val<=minStack.peek())
             minStack.push(val);
         stack.push(val);
-        System.out.println(minStack);
     }
     
     public void pop() {
