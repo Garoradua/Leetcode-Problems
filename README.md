@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Garoradua/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Garoradua/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/Garoradua/Leetcode-Problems/tree/master/0289-game-of-life) |
+| [0347-top-k-frequent-elements](https://github.com/Garoradua/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Garoradua/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Garoradua/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Garoradua/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Garoradua/Leetcode-Problems/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Garoradua/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Garoradua/Leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Garoradua/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Garoradua/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Garoradua/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Garoradua/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Garoradua/Leetcode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Garoradua/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Garoradua/Leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Garoradua/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Garoradua/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Garoradua/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Garoradua/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Garoradua/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Garoradua/Leetcode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Garoradua/Leetcode-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Prefix Sum
@@ -379,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Garoradua/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/Garoradua/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Garoradua/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [3226-minimum-number-game](https://github.com/Garoradua/Leetcode-Problems/tree/master/3226-minimum-number-game) |
 ## Randomized
@@ -427,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Garoradua/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Garoradua/Leetcode-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Garoradua/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Garoradua/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Garoradua/Leetcode-Problems/tree/master/0954-maximum-sum-circular-subarray) |
 ## Tree
 |  |
@@ -528,4 +534,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Garoradua/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Garoradua/Leetcode-Problems/tree/master/0954-maximum-sum-circular-subarray) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Garoradua/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Garoradua/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
