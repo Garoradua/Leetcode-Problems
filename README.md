@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Garoradua/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Garoradua/Leetcode-Problems/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Garoradua/Leetcode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0883-car-fleet](https://github.com/Garoradua/Leetcode-Problems/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/Garoradua/Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
 | [0932-monotonic-array](https://github.com/Garoradua/Leetcode-Problems/tree/master/0932-monotonic-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Garoradua/Leetcode-Problems/tree/master/0954-maximum-sum-circular-subarray) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Garoradua/Leetcode-Problems/tree/master/0414-third-maximum-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Garoradua/Leetcode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0539-minimum-time-difference](https://github.com/Garoradua/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
+| [0883-car-fleet](https://github.com/Garoradua/Leetcode-Problems/tree/master/0883-car-fleet) |
 | [1019-squares-of-a-sorted-array](https://github.com/Garoradua/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Garoradua/Leetcode-Problems/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Garoradua/Leetcode-Problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Garoradua/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Garoradua/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Garoradua/Leetcode-Problems/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/Garoradua/Leetcode-Problems/tree/master/0883-car-fleet) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Garoradua/Leetcode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/Garoradua/Leetcode-Problems/tree/master/1078-remove-outermost-parentheses) |
 ## Sliding Window
@@ -529,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Garoradua/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Garoradua/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Garoradua/Leetcode-Problems/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/Garoradua/Leetcode-Problems/tree/master/0883-car-fleet) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Garoradua/Leetcode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Union Find
 |  |
