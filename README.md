@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Garoradua/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/Garoradua/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/Garoradua/Leetcode-Problems/tree/master/0739-daily-temperatures) |
+| [0747-min-cost-climbing-stairs](https://github.com/Garoradua/Leetcode-Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Garoradua/Leetcode-Problems/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Garoradua/Leetcode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0883-car-fleet](https://github.com/Garoradua/Leetcode-Problems/tree/master/0883-car-fleet) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Garoradua/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Garoradua/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0494-target-sum](https://github.com/Garoradua/Leetcode-Problems/tree/master/0494-target-sum) |
+| [0747-min-cost-climbing-stairs](https://github.com/Garoradua/Leetcode-Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Garoradua/Leetcode-Problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/Garoradua/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Garoradua/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
