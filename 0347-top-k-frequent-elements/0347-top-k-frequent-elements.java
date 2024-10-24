@@ -1,26 +1,36 @@
+class Pair implements Comparable<Pair>{
+    int value;
+    int frequency;
+
+    Pair(int value, int frequency){
+        this.value = value;
+        this.frequency = frequency;
+    }
+
+    public int compareTo(Pair p){
+        return this.frequency - p.frequency;
+    }
+}
+
 class Solution {
     public int[] topKFrequent(int[] nums, int k) {
-        List<Integer>[] bucket = new List[nums.length+1];
         Map<Integer, Integer> map = new HashMap<>();
-
-        for(int i=0; i<nums.length; i++){
-            map.put(nums[i], map.getOrDefault(nums[i], 0) + 1);
+        for(int num : nums){
+            map.put(num, map.getOrDefault(num, 0)+1);
         }
-
+        PriorityQueue<Pair> minHeap = new PriorityQueue<>();
         for(int key : map.keySet()){
-            int frequency = map.get(key);
-            if(bucket[frequency]==null) bucket[frequency] = new ArrayList<>();
-            bucket[frequency].add(key);
+            int val = map.get(key);
+            minHeap.add(new Pair(key, val));
+            if(minHeap.size() > k) minHeap.poll();
         }
-        int j=0;
-        int[] result = new int[k];
-        for(int i=bucket.length-1; i>=0 && j< k; i-- ){
-            if(bucket[i]!=null){
-                for(Integer val : bucket[i]){
-                    result[j++] = val;
-                }
+
+        int[] result  = new int[k];
+            int i = 0;
+            while(!minHeap.isEmpty()){
+                Pair p = minHeap.poll();
+                result[i++] = p.value;
             }
-        }
         return result;
     }
 }
