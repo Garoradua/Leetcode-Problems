@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Garoradua/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Garoradua/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Garoradua/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0658-find-k-closest-elements](https://github.com/Garoradua/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/Garoradua/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/Garoradua/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/Garoradua/Leetcode-Problems/tree/master/0739-daily-temperatures) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/Garoradua/Leetcode-Problems/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/Garoradua/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Garoradua/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0658-find-k-closest-elements](https://github.com/Garoradua/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/Garoradua/Leetcode-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Garoradua/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/Garoradua/Leetcode-Problems/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Garoradua/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Garoradua/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Garoradua/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/Garoradua/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Garoradua/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/Garoradua/Leetcode-Problems/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Garoradua/Leetcode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Garoradua/Leetcode-Problems/tree/master/0414-third-maximum-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Garoradua/Leetcode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0539-minimum-time-difference](https://github.com/Garoradua/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
+| [0658-find-k-closest-elements](https://github.com/Garoradua/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0883-car-fleet](https://github.com/Garoradua/Leetcode-Problems/tree/master/0883-car-fleet) |
 | [1019-squares-of-a-sorted-array](https://github.com/Garoradua/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Garoradua/Leetcode-Problems/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
@@ -363,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Garoradua/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Garoradua/Leetcode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Garoradua/Leetcode-Problems/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/Garoradua/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Garoradua/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Garoradua/Leetcode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Garoradua/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
@@ -436,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Garoradua/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Garoradua/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Garoradua/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/Garoradua/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
 | [3226-minimum-number-game](https://github.com/Garoradua/Leetcode-Problems/tree/master/3226-minimum-number-game) |
 ## Randomized
 |  |
