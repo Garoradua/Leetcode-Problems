@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Garoradua/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Garoradua/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Garoradua/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Garoradua/Leetcode-Problems/tree/master/0198-house-robber) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Garoradua/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Garoradua/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Garoradua/Leetcode-Problems/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/Garoradua/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Garoradua/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/Garoradua/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0384-shuffle-an-array](https://github.com/Garoradua/Leetcode-Problems/tree/master/0384-shuffle-an-array) |
@@ -618,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Garoradua/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Garoradua/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 ## Geometry
 |  |
