@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Garoradua/Leetcode-Problems/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Garoradua/Leetcode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0883-car-fleet](https://github.com/Garoradua/Leetcode-Problems/tree/master/0883-car-fleet) |
+| [0898-transpose-matrix](https://github.com/Garoradua/Leetcode-Problems/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Garoradua/Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
 | [0932-monotonic-array](https://github.com/Garoradua/Leetcode-Problems/tree/master/0932-monotonic-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Garoradua/Leetcode-Problems/tree/master/0954-maximum-sum-circular-subarray) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/Garoradua/Leetcode-Problems/tree/master/0289-game-of-life) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Garoradua/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0463-island-perimeter](https://github.com/Garoradua/Leetcode-Problems/tree/master/0463-island-perimeter) |
+| [0898-transpose-matrix](https://github.com/Garoradua/Leetcode-Problems/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Garoradua/Leetcode-Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-subrectangle-queries](https://github.com/Garoradua/Leetcode-Problems/tree/master/1572-subrectangle-queries) |
 | [2047-find-a-peak-element-ii](https://github.com/Garoradua/Leetcode-Problems/tree/master/2047-find-a-peak-element-ii) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Garoradua/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/Garoradua/Leetcode-Problems/tree/master/0289-game-of-life) |
 | [0682-baseball-game](https://github.com/Garoradua/Leetcode-Problems/tree/master/0682-baseball-game) |
+| [0898-transpose-matrix](https://github.com/Garoradua/Leetcode-Problems/tree/master/0898-transpose-matrix) |
 | [2317-count-collisions-on-a-road](https://github.com/Garoradua/Leetcode-Problems/tree/master/2317-count-collisions-on-a-road) |
 | [3226-minimum-number-game](https://github.com/Garoradua/Leetcode-Problems/tree/master/3226-minimum-number-game) |
 | [3516-design-neighbor-sum-service](https://github.com/Garoradua/Leetcode-Problems/tree/master/3516-design-neighbor-sum-service) |
