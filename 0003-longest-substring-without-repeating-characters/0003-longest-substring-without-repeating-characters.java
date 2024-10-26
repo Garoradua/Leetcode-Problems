@@ -6,16 +6,13 @@ class Solution {
         int maxLength = 0;
         while(j<s.length()){
             if(list.contains(Character.valueOf(s.charAt(j)))){
-                while(list.contains(Character.valueOf(s.charAt(j)))){
                     list.remove(Character.valueOf(s.charAt(i)));
                     i++;
-                }
-                list.add(Character.valueOf(s.charAt(j)));
             }else{
                 list.add(Character.valueOf(s.charAt(j)));
                 maxLength = Math.max(maxLength, j-i+1);
+                j++;
             }
-            j++;
         }
         return maxLength;
     }
