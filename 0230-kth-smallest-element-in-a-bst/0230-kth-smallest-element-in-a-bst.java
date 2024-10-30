@@ -14,22 +14,22 @@
  * }
  */
 class Solution {
-    int result;
-    int count;
+    int k;
+    int value = 0;
     public int kthSmallest(TreeNode root, int k) {
-        count = k;
-         inOrderTraversal(root);
-         return result;
+        this.k = k;
+        inOrderTraversal(root);
+        return value;
     }
 
     public void inOrderTraversal(TreeNode root){
-       if(root==null) return;
-       inOrderTraversal(root.left);
-       count--;
-       if(count==0) {
-        result = root.val;
-        return;
-       }
+        if(root==null) return;
+        inOrderTraversal(root.left);
+        k--;
+        if(k==0){
+            value = root.val;
+            return;
+        }
         inOrderTraversal(root.right);
     }
 }
