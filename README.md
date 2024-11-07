@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Garoradua/Leetcode-Problems/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Garoradua/Leetcode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0883-car-fleet](https://github.com/Garoradua/Leetcode-Problems/tree/master/0883-car-fleet) |
+| [0890-lemonade-change](https://github.com/Garoradua/Leetcode-Problems/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Garoradua/Leetcode-Problems/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Garoradua/Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
 | [0932-monotonic-array](https://github.com/Garoradua/Leetcode-Problems/tree/master/0932-monotonic-array) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Garoradua/Leetcode-Problems/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/Garoradua/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0611-valid-triangle-number](https://github.com/Garoradua/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
+| [0890-lemonade-change](https://github.com/Garoradua/Leetcode-Problems/tree/master/0890-lemonade-change) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Garoradua/Leetcode-Problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3055-maximum-odd-binary-number](https://github.com/Garoradua/Leetcode-Problems/tree/master/3055-maximum-odd-binary-number) |
 ## String
