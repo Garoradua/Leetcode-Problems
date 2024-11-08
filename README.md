@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/Garoradua/Leetcode-Problems/tree/master/2047-find-a-peak-element-ii) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Garoradua/Leetcode-Problems/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Garoradua/Leetcode-Problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Garoradua/Leetcode-Problems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Garoradua/Leetcode-Problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Garoradua/Leetcode-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Garoradua/Leetcode-Problems/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/Garoradua/Leetcode-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Garoradua/Leetcode-Problems/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Garoradua/Leetcode-Problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Garoradua/Leetcode-Problems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [3226-minimum-number-game](https://github.com/Garoradua/Leetcode-Problems/tree/master/3226-minimum-number-game) |
 ## Dynamic Programming
 |  |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Garoradua/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 | [0890-lemonade-change](https://github.com/Garoradua/Leetcode-Problems/tree/master/0890-lemonade-change) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Garoradua/Leetcode-Problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Garoradua/Leetcode-Problems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [3055-maximum-odd-binary-number](https://github.com/Garoradua/Leetcode-Problems/tree/master/3055-maximum-odd-binary-number) |
 ## String
 |  |
