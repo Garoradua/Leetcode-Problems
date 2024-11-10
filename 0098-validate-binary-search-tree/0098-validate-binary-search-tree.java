@@ -15,19 +15,20 @@
  */
 class Solution {
     public boolean isValidBST(TreeNode root) {
-        ArrayList<Integer> list = new ArrayList<>();
-        inOrderTraversal(root, list);
+        long value[] = {Long.MIN_VALUE};
+        return inOrderTraversal(root, value);
 
-        for(int i=1; i<list.size(); i++){
-            if(list.get(i) <= list.get(i-1)) return false;
-        }
+        // for(int i=1; i<list.size(); i++){
+        //     if(list.get(i) <= list.get(i-1)) return false;
+        // }
 
-        return true;
+        // return true;
     }
-    public void inOrderTraversal(TreeNode root, ArrayList<Integer> list){
-        if(root==null) return;
-        inOrderTraversal(root.left, list);
-        list.add(root.val);
-        inOrderTraversal(root.right, list);
+    public boolean inOrderTraversal(TreeNode root, long[] value){
+        if(root==null) return true;
+        if(inOrderTraversal(root.left, value)==false) return false;
+        if(root.val <= value[0]) return false;
+            value[0] = root.val;
+        return inOrderTraversal(root.right, value);
     }
 }
