@@ -16,25 +16,24 @@
 class Solution {
     int preIndex = 0;
     public TreeNode buildTree(int[] preorder, int[] inorder) {
-
-        return findTree(preorder, inorder, 0, inorder.length-1 );
+        Map<Integer, Integer> map = new HashMap<>();
+        for(int i=0; i<inorder.length; i++){
+            map.put(inorder[i], i);
+        }
+        return findTree(preorder, inorder, 0, inorder.length-1 , map);
         
     }
 
-    public TreeNode findTree(int[] preorder, int[] inorder, int si, int ei){
+    public TreeNode findTree(int[] preorder, int[] inorder, int si, int ei, Map<Integer, Integer> map){
 
         if(si > ei) return null;
 
         TreeNode root = new TreeNode(preorder[preIndex++]);
         int index = 0;
-        for(int i = si; i<=ei; i++){
-            if(inorder[i]==root.val){
-                index = i;
-            }
-        }
+        index = map.get(root.val);
 
-        root.left = findTree(preorder, inorder, si, index-1 );
-        root.right =  findTree(preorder, inorder, index+1, ei);
+        root.left = findTree(preorder, inorder, si, index-1, map );
+        root.right =  findTree(preorder, inorder, index+1, ei, map);
 
         return root;
     }
