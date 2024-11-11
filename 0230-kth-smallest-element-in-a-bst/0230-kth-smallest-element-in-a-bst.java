@@ -14,10 +14,10 @@
  * }
  */
 class Solution {
-    int k;
+    int index = 0;
     int value = 0;
     public int kthSmallest(TreeNode root, int k) {
-        this.k = k;
+        index = k;
         inOrderTraversal(root);
         return value;
     }
@@ -25,8 +25,8 @@ class Solution {
     public void inOrderTraversal(TreeNode root){
         if(root==null) return;
         inOrderTraversal(root.left);
-        k--;
-        if(k==0){
+        index--;
+        if(index==0){
             value = root.val;
             return;
         }
